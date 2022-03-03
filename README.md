@@ -1,1 +1,1 @@
-This repo is an introduction to shell commands
+This repo is an introduction to shell commandants
